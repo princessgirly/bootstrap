@@ -1,1 +1,68 @@
+*{
+margin:0;
+padding:0;
+}
+#container {
+  height: 100%;
+  width: 90%;
+  margin: auto;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
+header {
+  background-color: pink;
+  height:90px;
+}
+h1 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: sans-serif Verdana;
+}
+h2 {
+  margin-left: 10px;
+  text-decoration: underline;
+}
+img {
+  float: left;
+  margin: 10px;
+}
+.menu{
+  height: 70px;
+}
+.flottant {
+  float: left;
+}
+#mottant {
+  margin: 100px 10px 50px 10px;
+}
+.6 {
+  padding: 10px;
+}
+.333333{
+  height: 200px;
+}
+​
+.444444{
+  background-color: green;
+  height:200px;
+}
+​
+.5555555, .666666{
+  height:100px;
+}
+​
+
+.n777 {
+  height: 80px;
+  background-color: green;
+}
+.n888, .n999,  .n11, {
+  height: 60px;
+  background-color: #99ff99;
+}
+​.n10, .n12{
+  height: 100px;
+  background-color: #99ccff;
+}
 
